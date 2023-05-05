@@ -1,4 +1,4 @@
-![image](https://github.com/mytechnotalent/Rust-Hacking/blob/main/Rust%20Hacking.png?raw=true)
+![image](https://github.com/mytechnotalent/Rust-Hacking/blob/main/Hacking%20Rust.png?raw=true)
 
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
