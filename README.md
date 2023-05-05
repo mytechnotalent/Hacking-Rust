@@ -8,12 +8,12 @@
 A comprehensive and FREE Online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
 
 ## FREE Book
-[Download](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf)
+[Download](https://github.com/mytechnotalent/Go-Hacking/blob/main/Hacking%20Rust.pdf)
 
 ## Chapter 1: Hello Rust
 This chapter covers the basics of setting up a dev environment and basic hello world style Rust program for the x64 architecture.
 
--> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
