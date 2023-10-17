@@ -26,12 +26,17 @@ This chapter covers hacking the basic hello world style Rust program for the x64
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Chapter 4: Scalar Data Types
-This chapter covers a scalar data types Rust program for the x64 architecture.
+This chapter covers scalar data types Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Chapter 5: Debugging Scalar Data Types
-This chapter covers debugging a scalar data types Rust program for the x64 architecture.
+This chapter covers debugging scalar data types Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Chapter 6: Hacking Scalar Data Types
+This chapter covers hacking scalar data types Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
