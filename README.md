@@ -40,6 +40,11 @@ This chapter covers hacking scalar data types Rust program for the x64 architect
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
+## Chapter 7: Compound Data Types
+This chapter covers compound data types Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 ## License
