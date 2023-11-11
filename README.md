@@ -57,5 +57,7 @@ This chapter covers hacking compound data types Rust program for the x64 archite
 
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
+<br>
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
