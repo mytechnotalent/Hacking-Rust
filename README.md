@@ -26,32 +26,47 @@ This chapter covers hacking the basic hello world style Rust program for the x64
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Chapter 4: Scalar Data Types
-This chapter covers scalar data types Rust program for the x64 architecture.
+This chapter covers scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Chapter 5: Debugging Scalar Data Types
-This chapter covers debugging scalar data types Rust program for the x64 architecture.
+This chapter covers debugging scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Chapter 6: Hacking Scalar Data Types
-This chapter covers hacking scalar data types Rust program for the x64 architecture.
+This chapter covers hacking scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Chapter 7: Compound Data Types
-This chapter covers compound data types Rust program for the x64 architecture.
+This chapter covers compound data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Chapter 8: Debugging Compound Data Types
-This chapter covers debugging compound data types Rust program for the x64 architecture.
+This chapter covers debugging compound data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Chapter 9: Hacking Compound Data Types
-This chapter covers hacking compound data types Rust program for the x64 architecture.
+This chapter covers hacking compound data types within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Chapter 10: Functions
+This chapter covers functions within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Chapter 11: Debugging Functions
+This chapter covers debugging functions within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Chapter 12: Hacking Functions
+This chapter covers hacking functions within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
