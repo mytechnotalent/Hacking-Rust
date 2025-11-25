@@ -85,8 +85,6 @@ This chapter covers hacking control flow within a Rust program for the x64 archi
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
-IN DEVELOPMENT...  MORE TO COME SOON!!!
-
 <br>
 
 ## License
