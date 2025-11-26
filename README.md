@@ -7,8 +7,11 @@
 # Hacking Rust
 A FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
 
-## FREE Book
-[Download](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf)
+<br>
+
+## FREE Book [Download](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf)
+
+<br>
 
 ## Chapter 1: Hello Rust
 This chapter covers the basics of setting up a dev environment and basic hello world style Rust program for the x64 architecture.
@@ -87,5 +90,5 @@ This chapter covers hacking control flow within a Rust program for the x64 archi
 
 <br>
 
-## License
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
