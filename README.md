@@ -4,6 +4,14 @@
 
 <br>
 
+# Today's Tutorial [January 16, 2026]
+## Lesson 81: ARM-32 Course 2 (Part 16 - Hacking Hello World)
+This tutorial will discuss hacking hello world.
+
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+
+<br>
+
 # Hacking Rust
 A FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
 
