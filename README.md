@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [January 20, 2026]
-## Lesson 85: ARM-32 Course 2 (Part 20 – Character Variables)
-This tutorial will discuss character variables.
+# Today's Tutorial [January 21, 2026]
+## Lesson 86: ARM-32 Course 2 (Part 21 – Debugging Character Variables)
+This tutorial will discuss debugging character variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
