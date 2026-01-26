@@ -10,9 +10,9 @@
 
 <br>
 
-# Today's Tutorial [January 25, 2026]
-## Lesson 90: ARM-32 Course 2 (Part 25 – Hacking Boolean Variables)
-This tutorial will discuss hacking boolean variables.
+# Today's Tutorial [January 26, 2026]
+## Lesson 91: ARM-32 Course 2 (Part 26 – Integer Variables)
+This tutorial will discuss integer variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
