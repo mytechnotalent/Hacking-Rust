@@ -4,12 +4,6 @@
 
 <br>
 
-# ⚡️ New: I am now deconstructing AI.
-**I have launched a new engineering log, [Bits & Neurons](https://mytechnotalent.substack.com), where I apply these reverse engineering principles to Artificial Intelligence.**
-[Subscribe here to see me build and break AI models.](https://mytechnotalent.substack.com)
-
-<br>
-
 # Today's Tutorial [January 27, 2026]
 ## Lesson 92: ARM-32 Course 2 (Part 27 – Debugging Integer Variables)
 This tutorial will discuss debugging integer variables.
