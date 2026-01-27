@@ -10,9 +10,9 @@
 
 <br>
 
-# Today's Tutorial [January 26, 2026]
-## Lesson 91: ARM-32 Course 2 (Part 26 – Integer Variables)
-This tutorial will discuss integer variables.
+# Today's Tutorial [January 27, 2026]
+## Lesson 92: ARM-32 Course 2 (Part 27 – Debugging Integer Variables)
+This tutorial will discuss debugging integer variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
