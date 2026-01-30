@@ -4,9 +4,9 @@
 
 <br>
 
-# Today's Tutorial [January 29, 2026]
-## Lesson 94: ARM-32 Course 2 (Part 29 – Float Variables)
-This tutorial will discuss float variables.
+# Today's Tutorial [January 30, 2026]
+## Lesson 95: ARM-32 Course 2 (Part 30 – Debugging Float Variables)
+This tutorial will discuss debugging float variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
