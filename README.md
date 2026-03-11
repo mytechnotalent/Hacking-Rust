@@ -4,6 +4,14 @@
 
 <br>
 
+# Today's Tutorial [March 11, 2026]
+## Lesson 127: x64 Course (Part 7 - Word Lengths)
+This tutorial will discuss word lengths.
+
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+
+<br>
+
 # Hacking Rust
 A FREE comprehensive online Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch.
 
